@@ -1,0 +1,3 @@
+﻿  pupil_diameter.cpp
+c:\users\nionios\desktop\diploma thesis\pupil measurment\cpp_code\pupilmeasure\pupilmeasure\pupil_diameter.cpp(31): warning C4018: '<': signed/unsigned mismatch
+opencv_highgui2413d.lib(opencv_highgui2413d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

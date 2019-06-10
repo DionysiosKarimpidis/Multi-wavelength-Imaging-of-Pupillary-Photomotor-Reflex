@@ -1,0 +1,4 @@
+﻿  pupil_diameter.cpp
+c:\users\nionios\desktop\diploma thesis\pupil measurment\cpp_code\pupilmeasure\pupilmeasure\pupil_diameter.cpp(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  pupilMeasure.vcxproj -> C:\Users\Nionios\Desktop\diploma thesis\pupil measurment\Cpp_code\pupilMeasure\x64\Debug\pupilMeasure.exe
+  pupilMeasure.vcxproj -> C:\Users\Nionios\Desktop\diploma thesis\pupil measurment\Cpp_code\pupilMeasure\x64\Debug\pupilMeasure.pdb (Partial PDB)
